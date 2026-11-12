@@ -348,6 +348,11 @@
 .task-dialog-title {
   justify-content: space-between;
   align-items: center;
+  color: #202124;
+}
+
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation24.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthSm.MuiDialog-paperFullWidth {
+  scrollbar-width: none;
 }
 
 .task-dialog-content {
